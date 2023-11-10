@@ -1,2 +1,2 @@
 # MotivationalPoster
-CSS Project
+CSS Properties Project
